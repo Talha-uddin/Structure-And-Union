@@ -1,5 +1,14 @@
 {
     "files.associations": {
-        "Maintain_Customer_Account.C": "cpp"
-    }
+        "Maintain_Customer_Account.C": "cpp",
+        "Analyzing_a_line_of_text.C": "cpp",
+        "displaying_the_day_of_the_year.C": "cpp",
+        "Data_type.C": "cpp",
+        "Data_type1.C": "cpp",
+        "Using_function.C": "cpp",
+        "using_array.C": "cpp",
+        "using_array1.C": "cpp",
+        "update_Customer_record.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
